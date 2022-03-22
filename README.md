@@ -1,4 +1,6 @@
-# awesome-rust-zh
+# rust学习资源导航
+
+在学习 Rust 过程中使用到的资料。
 
 ## 学习资料导航
 
@@ -13,5 +15,5 @@
 ### 视频
   - [Bilibili UP主-存在_丶](https://space.bilibili.com/202107274/video)——用Rust写算法题，Rust实战（备注：up 边写边讲解，思路清晰，还会讲一些原理，有一种结对编程的感觉）。
 
-PS：awesome-rust 的翻译，再加上我自己在学习 Rust 过程中使用到的资料。一方面是方便自己快速导航到资料，另一方面是对 awesome-rust 项目翻译。
+
 
